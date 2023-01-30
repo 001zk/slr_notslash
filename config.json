@@ -1,5 +1,3 @@
-{ 
-"token":""
-}
-
+{ "prefix":"", //prefixo dos comandos do bot
+"token":"" //token do seu bot
  
